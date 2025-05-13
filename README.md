@@ -21,7 +21,7 @@
     </select></p>
     <p>地址：<input type="text" name="address"></p>
     <p>照片：<input type="file" name="photo"></p>
-    <p>兴趣爱好：<input type="checkbox" name="hobby[]" value="reading" size="300">阅读<input type="checkbox" name="hobby[]" value="swimming">游泳<input type="checkbox" name="hobby[]" value="running">篮球</p>
+    <p>兴趣爱好：<input type="checkbox" name="hobby[]" value="reading" size="300">阅读<input type="checkbox" name="hobby[]" value="swimming">乒乓球<input type="checkbox" name="hobby[]" value="running">篮球</p>
     <p>个人简介：<br><textarea type="textarea" name=introduction rows="5" cols="50"></textarea></p>
     <p><h6>立即注册<input type="button" value="submit"></h6></p>
   <p><input type="submit" value="提交"></p>
